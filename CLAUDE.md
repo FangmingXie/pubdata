@@ -7,13 +7,16 @@ pubdata/
 ├── CLAUDE.md
 ├── README.md
 ├── LICENSE
+├── datasets.md            # registry of tracked datasets
 ├── local_data/            # local/large data (gitignored)
-    ├── dataset1/ # author_year 
-    ├── dataset2/ # author_year 
-    ├── ... 
-    └── datasetN/
+│   ├── dataset1/          # author_year
+│   ├── dataset2/          # author_year
+│   ├── ...
+│   └── datasetN/
 ├── docs/                  # documentation
-├── scripts/               # standalone scripts
+└── scripts/               # scripts organized by dataset
+    └── author_year/
+        └── 00.load_*.py
 
 ```
 

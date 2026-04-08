@@ -22,3 +22,26 @@ jorstad23_human - human neocortex
 
 ### ABC atlas - allen (Yoo23?)
 > https://github.com/AllenInstitute/abc_atlas_access/blob/main/descriptions/WMB-10X.md
+
+
+## GUT
+Mouse small intestinal epithelium 
+Haber, ..., Regev 2017 Nature
+https://www.nature.com/articles/nature24489
+
+Human intestine
+Hickey, ..., Snyder 2023 Nature
+https://www.nature.com/articles/s41586-023-05915-x
+
+Human intestine (healthy + diseases)
+Oliver, ..., Teichmann 2024 Nature
+https://www.nature.com/articles/s41586-024-07571-1
+
+Human intestine development and Crohn's diseases
+Elmentaite, ..., Teichmann, Zibauer 2020 Dev Cell
+https://www.sciencedirect.com/science/article/pii/S1534580720308868
+
+Human intestine development
+..., Simmons 2021 Cell
+https://www.sciencedirect.com/science/article/pii/S009286742031686X?via%3Dihub
+https://explore.data.humancellatlas.org/projects/fa3f460f-4fb9-4ced-b548-8ba6a8ecae3f

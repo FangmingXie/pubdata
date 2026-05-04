@@ -4,7 +4,7 @@ import scanpy as sc
 # --- file paths ---
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 DATA_DIR = os.path.join(PROJECT_ROOT, 'local_data', 'cheng22_yoo25')
-IN_FILE = os.path.join(DATA_DIR, 'superdupermegaRNA_hasraw.h5ad')
+IN_FILE = os.path.join(DATA_DIR, 'orig', 'superdupermegaRNA_hasraw.h5ad')
 OUT_FILE = os.path.join(DATA_DIR, 'README.txt')
 
 # --- load obs only ---
